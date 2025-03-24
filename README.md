@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+Hi, I’m Shannie! 👋
+Currently studying for an MSc in Machine Learning & Data Science at Reichman University  
+Interested in Computer Vision, Deep Learning, Machine Learning and Robotics  
+How to reach me: Shannie600@gmail.com
+
 <!--
 **ShannieChacham/ShannieChacham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
